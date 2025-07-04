@@ -27,13 +27,13 @@ This project is a simple Pac-Man game implemented in Java as part of a programmi
 
 ### 📷 Screenshots  
 - Start screen
-- ![Start](images/start.png)  
+  ![Start](images/start.png)  
 - Pac-Man eating dots
-- ![Play](images/play.png) 
+  ![Play](images/play.png) 
 - Victory screen ("Succession" object)
-- ![Victory](images/success.png)    
+  ![Victory](images/success.png)    
 - Defeat screen ("Fail Icon" object)
-- ![Defeat](images/gameover.png)
+  ![Defeat](images/gameover.png)
 
 ### 🤔 Reflection  
 This project helped me consolidate what I learned throughout the semester. Creating something I personally wanted, not just a practice assignment, gave me a sense of accomplishment. I also recognized areas for improvement, especially in optimizing code length and logic.
